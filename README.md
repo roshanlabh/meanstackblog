@@ -58,12 +58,3 @@ David Acosta.
 ## License
 
 No license.
-
-
-roshan
-Roshan@123
-
-Admin
-Admin@123
-"# meanstackblog" 
-"# meanstackblog" 
