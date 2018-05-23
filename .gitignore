@@ -1,4 +1,7 @@
 # dependencies
+package-lock.json
+
 /node_modules
 
 /client/node_modules
+/client/package-lock.json
